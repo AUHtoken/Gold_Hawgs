@@ -1,0 +1,9 @@
+Building Gold_Hawgs
+
+See doc/readme-qt.rst for instructions on building Gold_Hawgs QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Gold_Hawgs.
+
+See doc/build-*.txt for instructions on building Gold_Hawgsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Gold_Hawgs.

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="0.9">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>Gold_Hawgs.icns</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Gold_Hawgs-Qt</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleExecutable</key>
+	<string>Gold_Hawgs-Qt</string>
+	<key>CFBundleIdentifier</key>
+	<string>co.Gold_Hawgs.Gold_Hawgs-Qt</string>
+        <key>CFBundleURLTypes</key>
+        <array>
+          <dict>
+            <key>CFBundleTypeRole</key>
+            <string>Editor</string>
+            <key>CFBundleURLName</key>
+            <string>co.Gold_Hawgs.Gold_HawgsPayment</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+              <string>Gold_Hawgs</string>
+            </array>
+          </dict>
+        </array>
+        <key>LSAppNapIsDisabled</key>
+          <string>True</string>
+</dict>
+</plist>
